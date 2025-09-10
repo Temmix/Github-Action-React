@@ -1,4 +1,4 @@
-# Github-Action-React / Github-Actions
+# Github-Action-React
 
 Examples of GitHub Actions pipelines for React and Node.js projects.<br>
 Workflows cover automated testing, builds, and deployment.<br>
